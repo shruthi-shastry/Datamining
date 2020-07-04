@@ -1,0 +1,2322 @@
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
+Plain Rice >>> 5144
+
+Special Fried Rice >>> 5103
+
+Vindaloo - Prawn >>> 5105
+
+Korma - Lamb >>> 5062
+
+Bhuna - Chicken >>> 5090
+
+Lamb Biryani >>> 5155
+
+House white wine 75cl >>> 5047
+
+Curry >>> 5015
+
+Chicken Tikka Balti >>> 5108
+
+('Korma - Lamb', 'Plain Rice') >>> 2330
+
+('House white wine 75cl', 'Vindaloo - Prawn') >>> 2332
+
+('Curry', 'Special Fried Rice') >>> 2354
+
+('Bhuna - Chicken', 'Special Fried Rice') >>> 2330
+
+('Bhuna - Chicken', 'Curry') >>> 2277
+
+('Chicken Tikka Balti', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'Plain Rice') >>> 2323
+
+('Chicken Tikka Balti', 'House white wine 75cl') >>> 2303
+
+('Bhuna - Chicken', 'Korma - Lamb') >>> 2293
+
+('Korma - Lamb', 'Lamb Biryani') >>> 2345
+
+('House white wine 75cl', 'Lamb Biryani') >>> 2381
+
+('Curry', 'House white wine 75cl') >>> 2314
+
+('Korma - Lamb', 'Vindaloo - Prawn') >>> 2329
+
+('Special Fried Rice', 'Vindaloo - Prawn') >>> 2373
+
+('Chicken Tikka Balti', 'Korma - Lamb') >>> 2353
+
+('Lamb Biryani', 'Plain Rice') >>> 2409
+
+('Plain Rice', 'Special Fried Rice') >>> 2374
+
+('Bhuna - Chicken', 'Lamb Biryani') >>> 2364
+
+('Lamb Biryani', 'Special Fried Rice') >>> 2371
+
+('Curry', 'Korma - Lamb') >>> 2336
+
+('Bhuna - Chicken', 'Vindaloo - Prawn') >>> 2352
+
+('Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 2391
+
+('Plain Rice', 'Vindaloo - Prawn') >>> 2375
+
+('Lamb Biryani', 'Vindaloo - Prawn') >>> 2366
+
+('Chicken Tikka Balti', 'Curry') >>> 2322
+
+('Bhuna - Chicken', 'House white wine 75cl') >>> 2306
+
+('Chicken Tikka Balti', 'Plain Rice') >>> 2394
+
+('Curry', 'Vindaloo - Prawn') >>> 2274
+
+('House white wine 75cl', 'Korma - Lamb') >>> 2299
+
+('Curry', 'Plain Rice') >>> 2302
+
+('Curry', 'Lamb Biryani') >>> 2363
+
+('Chicken Tikka Balti', 'Lamb Biryani') >>> 2355
+
+('Bhuna - Chicken', 'Chicken Tikka Balti') >>> 2318
+
+('Korma - Lamb', 'Special Fried Rice') >>> 2359
+
+('House white wine 75cl', 'Plain Rice') >>> 2375
+
+('House white wine 75cl', 'Special Fried Rice') >>> 2372
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1064
+
+('House white wine 75cl', 'Korma - Lamb', 'Lamb Biryani') >>> 1094
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Lamb Biryani') >>> 1072
+
+('Curry', 'Korma - Lamb', 'Special Fried Rice') >>> 1111
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Special Fried Rice') >>> 1099
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Korma - Lamb') >>> 1049
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Plain Rice') >>> 1085
+
+('Curry', 'Korma - Lamb', 'Lamb Biryani') >>> 1083
+
+('Curry', 'Plain Rice', 'Vindaloo - Prawn') >>> 1041
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Curry') >>> 1054
+
+('Bhuna - Chicken', 'Curry', 'Korma - Lamb') >>> 1042
+
+('House white wine 75cl', 'Lamb Biryani', 'Special Fried Rice') >>> 1129
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Lamb Biryani') >>> 1067
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Special Fried Rice') >>> 1076
+
+('Korma - Lamb', 'Lamb Biryani', 'Plain Rice') >>> 1096
+
+('Bhuna - Chicken', 'Curry', 'Special Fried Rice') >>> 1062
+
+('Chicken Tikka Balti', 'Plain Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Curry', 'Lamb Biryani') >>> 1058
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Special Fried Rice') >>> 1070
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Korma - Lamb') >>> 1041
+
+('Korma - Lamb', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1095
+
+('Korma - Lamb', 'Lamb Biryani', 'Special Fried Rice') >>> 1101
+
+('House white wine 75cl', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1107
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Plain Rice') >>> 1076
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Special Fried Rice') >>> 1088
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1079
+
+('House white wine 75cl', 'Korma - Lamb', 'Plain Rice') >>> 1084
+
+('Chicken Tikka Balti', 'Curry', 'Lamb Biryani') >>> 1081
+
+('House white wine 75cl', 'Korma - Lamb', 'Special Fried Rice') >>> 1075
+
+('Lamb Biryani', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1091
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Plain Rice') >>> 1084
+
+('Bhuna - Chicken', 'Curry', 'House white wine 75cl') >>> 1033
+
+('Lamb Biryani', 'Plain Rice', 'Vindaloo - Prawn') >>> 1074
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'House white wine 75cl') >>> 1040
+
+('Bhuna - Chicken', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Curry', 'House white wine 75cl', 'Korma - Lamb') >>> 1079
+
+('Curry', 'House white wine 75cl', 'Special Fried Rice') >>> 1102
+
+('Korma - Lamb', 'Plain Rice', 'Special Fried Rice') >>> 1106
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Plain Rice') >>> 1060
+
+('House white wine 75cl', 'Plain Rice', 'Vindaloo - Prawn') >>> 1104
+
+('Curry', 'House white wine 75cl', 'Vindaloo - Prawn') >>> 1057
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1087
+
+('Bhuna - Chicken', 'Curry', 'Plain Rice') >>> 1043
+
+('Bhuna - Chicken', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1089
+
+('House white wine 75cl', 'Lamb Biryani', 'Plain Rice') >>> 1125
+
+('Chicken Tikka Balti', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1096
+
+('Chicken Tikka Balti', 'Curry', 'Special Fried Rice') >>> 1089
+
+('Curry', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1070
+
+('Chicken Tikka Balti', 'Curry', 'Korma - Lamb') >>> 1102
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Plain Rice') >>> 1080
+
+('House white wine 75cl', 'Plain Rice', 'Special Fried Rice') >>> 1113
+
+('Curry', 'Korma - Lamb', 'Plain Rice') >>> 1049
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Special Fried Rice') >>> 1092
+
+('Bhuna - Chicken', 'Lamb Biryani', 'Special Fried Rice') >>> 1073
+
+('Curry', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1085
+
+('House white wine 75cl', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1066
+
+('Plain Rice', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1116
+
+('Curry', 'Lamb Biryani', 'Special Fried Rice') >>> 1138
+
+('Chicken Tikka Balti', 'Curry', 'Vindaloo - Prawn') >>> 1067
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Korma - Lamb') >>> 1051
+
+('Korma - Lamb', 'Plain Rice', 'Vindaloo - Prawn') >>> 1083
+
+('Bhuna - Chicken', 'Chicken Tikka Balti', 'Vindaloo - Prawn') >>> 1075
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Plain Rice') >>> 1023
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Lamb Biryani') >>> 1039
+
+('Chicken Tikka Balti', 'Plain Rice', 'Special Fried Rice') >>> 1114
+
+('Bhuna - Chicken', 'House white wine 75cl', 'Lamb Biryani') >>> 1088
+
+('Lamb Biryani', 'Plain Rice', 'Special Fried Rice') >>> 1103
+
+('Korma - Lamb', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1069
+
+('Chicken Tikka Balti', 'Special Fried Rice', 'Vindaloo - Prawn') >>> 1099
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Lamb Biryani') >>> 1107
+
+('Chicken Tikka Balti', 'House white wine 75cl', 'Plain Rice') >>> 1078
+
+('Bhuna - Chicken', 'Plain Rice', 'Special Fried Rice') >>> 1077
+
+('Curry', 'Plain Rice', 'Special Fried Rice') >>> 1075
+
+('Chicken Tikka Balti', 'Curry', 'Plain Rice') >>> 1071
+
+('Chicken Tikka Balti', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1107
+
+('Curry', 'House white wine 75cl', 'Lamb Biryani') >>> 1094
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1071
+
+('Curry', 'House white wine 75cl', 'Plain Rice') >>> 1086
+
+('Bhuna - Chicken', 'Curry', 'Vindaloo - Prawn') >>> 1047
+
+('Chicken Tikka Balti', 'Curry', 'House white wine 75cl') >>> 1067
+
+('Bhuna - Chicken', 'Korma - Lamb', 'Special Fried Rice') >>> 1053
+
+('House white wine 75cl', 'Lamb Biryani', 'Vindaloo - Prawn') >>> 1088
+
+('Curry', 'Korma - Lamb', 'Vindaloo - Prawn') >>> 1061
+
+('Curry', 'Lamb Biryani', 'Plain Rice') >>> 1095
+
